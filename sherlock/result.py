@@ -61,9 +61,9 @@ class QueryResult():
         Nothing.
         """
 
-        self.username      = username
-        self.site_name     = site_name
-        self.site_url_user = site_url_user
+        self.username      = ano_nimoquirino
+        self.site_name     = https://instagram.com/ano_nimoquirino?igshid=YmMyMTA2M2Y=
+        self.site_url_user = https://instagram.com/ano_nimoquirino?igshid=YmMyMTA2M2Y=
         self.status        = status
         self.query_time    = query_time
         self.context       = context
